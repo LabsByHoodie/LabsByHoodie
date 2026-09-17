@@ -29,8 +29,6 @@ Coming soon — Active Directory, Domain Services, DNS, Group Policy, and admini
 
 ## 📚 Currently Learning
 
-- SC-200
-- Kubernetes
 - Powershell
 
 ## 🎓 Certifications
@@ -39,7 +37,6 @@ Coming soon — Active Directory, Domain Services, DNS, Group Policy, and admini
 - CompTIA Network+
 - CompTIA A+
 - Microsoft Azure Fundamentals (AZ-900)
-- AWS Certified Cloud Practitioner
 
 ## 🔗 Connect With Me
 
