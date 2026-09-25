@@ -1,18 +1,17 @@
 # Hi, I'm Nate 👋
 
-Cloud Engineer focused on Azure, cloud operations, cybersecurity, and enterprise infrastructure.
+Cloud Engineer focused on Azure, cloud operations, and enterprise infrastructure.
 
 ## ☁️ Core Skills
 
-- Microsoft Azure
+- Azure
 - Windows Server
-- Active Directory / Entra ID
-- Azure RBAC
+- Active Directory
+- Entra ID
 - Microsoft Sentinel / KQL
 - Azure Monitor / Log Analytics
 - Disaster Recovery / BCDR
 - Git / GitHub / Markdown
-- Kubernetes Troubleshooting
 - PowerShell
 - ITSM / ServiceNow
 
